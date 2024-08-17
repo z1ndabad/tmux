@@ -1,5 +1,5 @@
 # tmux
-tmux configs
+tmux configs. Includes common nav controls with Neovim and pretty status bar.
 
 # Usage
 1. Clone into `.config/tmux`
